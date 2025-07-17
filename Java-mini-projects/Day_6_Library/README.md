@@ -1,1 +1,1 @@
-Day 6 no mood in writing README file today the task was similar to Day 5 so mostly the code and logic was same
+Day 6 no mood in writing README file today the task was similar to Day 5 so mostly the code and logic was same .
